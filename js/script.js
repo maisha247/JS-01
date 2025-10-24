@@ -136,13 +136,13 @@
 
 
 // =========if/else condition===== 
-      // let x = 1;
-      // if (x>0) {
-      //     console.log("condition is true");  
-      // } 
-      // else {
-      //     console.log("condition is false");
-      // }
+      let x = 1;
+      if (x>0) {
+          console.log("condition is true");  
+      } 
+      else {
+          console.log("condition is false");
+      }
       
       // result : condition is true
 // =========if/else condition===== 
